@@ -1,6 +1,7 @@
 # No Show Dataset Analysis - Python
+ Udacity project
 
-## Project: Investigate a Dataset (No Show appointments - Udacity project)
+## Project: Investigate a Dataset (No Show appointments)
 
 ## Introduction
 > ### `No Show up Dataset`: This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
